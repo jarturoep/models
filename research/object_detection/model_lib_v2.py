@@ -588,7 +588,7 @@ def train_loop(
   # Get the appropriate filepath (temporary or not) based on whether the worker
   # is the chief.
   summary_writer_filepath = get_filepath(strategy,
-                                         os.path.join(model_dir, 'train'))
+                                         os.path.join(model_dir, 'images/train'))
 
   summary_writer = tf.compat.v2.summary.create_file_writer(
       summary_writer_filepath)

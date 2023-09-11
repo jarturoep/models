@@ -1,0 +1,36 @@
+item {
+    id: 1
+    name: 'CheetosTorciditos_55_F'
+}
+item {
+    id: 2
+    name: 'FritosSalLimon_65_F'
+}
+item {
+    id: 3
+    name: 'Churrumais_70_F'
+}
+item {
+    id: 4
+    name: 'Rancheritos_58_F'
+}
+item {
+    id: 5
+    name: 'DoritosN_61_F'
+}
+item {
+    id: 6
+    name: 'RufflesQ_48_F'
+}
+item {
+    id: 7
+    name: 'Sabritas_64_F'
+}
+item {
+    id: 8
+    name: 'Sabritas_160_F'
+}
+item {
+    id: 9
+    name: 'Sabritas_45_F'
+}
