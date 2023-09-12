@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>CCTV_FritosLyS_65_F_2023_08_17_180343.png</filename>
+	<path>C:\Users\Jose.Espinosa\Documents\Axity\Axity_Trainer\research\object_detection\images\test\research\object_detection\images\test\CCTV_FritosLyS_65_F_2023_08_17_180343.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FritosSalLimon_65_F</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1047</xmin>
+			<ymin>960</ymin>
+			<xmax>1469</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

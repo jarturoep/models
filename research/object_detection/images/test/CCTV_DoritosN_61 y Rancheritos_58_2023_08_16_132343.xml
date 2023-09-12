@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>CCTV_DoritosN_61 y Rancheritos_58_2023_08_16_132343.png</filename>
+	<path>C:\Users\Jose.Espinosa\Documents\Axity\Axity_Trainer\research\object_detection\images\test\research\object_detection\images\test\CCTV_DoritosN_61 y Rancheritos_58_2023_08_16_132343.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rancheritos_58_F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>307</ymin>
+			<xmax>892</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DoritosN_61_F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>832</ymin>
+			<xmax>1398</xmax>
+			<ymax>1179</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CCTV_Ruffles_48_F_2023_08_16_131252.jpg</filename>
+	<path>C:\Users\Jose.Espinosa\Documents\Axity\Axity_Trainer\research\object_detection\images\train\CCTV_Ruffles_48_F_2023_08_16_131252.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RufflesQ_48_F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>603</ymin>
+			<xmax>1314</xmax>
+			<ymax>1226</ymax>
+		</bndbox>
+	</object>
+</annotation>

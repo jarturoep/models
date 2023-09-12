@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CCTV_Sabritas_160_F_2023_08_11_163949.jpg</filename>
+	<path>C:\Users\Jose.Espinosa\Documents\Axity\Axity_Trainer\research\object_detection\images\train\CCTV_Sabritas_160_F_2023_08_11_163949.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sabritas_160_F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1039</xmin>
+			<ymin>22</ymin>
+			<xmax>1739</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>
