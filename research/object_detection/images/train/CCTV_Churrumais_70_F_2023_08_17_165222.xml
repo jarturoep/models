@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>CCTV_Churrumais_70_F_2023_08_17_165222.png</filename>
+	<path>C:\Users\Jose.Espinosa\Documents\Axity\Axity_Trainer\research\object_detection\images\train\CCTV_Churrumais_70_F_2023_08_17_165222.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Churrumais_70_F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1314</xmin>
+			<ymin>884</ymin>
+			<xmax>1892</xmax>
+			<ymax>1431</ymax>
+		</bndbox>
+	</object>
+</annotation>

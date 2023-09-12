@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>CCTV_Cheetos_55_F_2023_08_17_180903.png</filename>
+	<path>C:\Users\Jose.Espinosa\Documents\Axity\Axity_Trainer\research\object_detection\images\train\CCTV_Cheetos_55_F_2023_08_17_180903.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CheetosTorciditos_55_F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>143</ymin>
+			<xmax>739</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>
